@@ -35,11 +35,6 @@ Bliss is a sleek and modern online clothing store template, designed for a smoot
 - 🌙 Smooth animations and interactions
 - 📧 Newsletter form
 
-
-
-**Project Overview:**
-
-Bliss is a sleek and modern online clothing store template, designed for a smooth and minimal shopping experience. It features a responsive and clean layout, ideal for showcasing pastel-themed clothing. The project includes simulated e-commerce functionalities like authentication, cart management, and payment processing, making it a perfect base for future online stores.
 ------------------------------------------------------------
 
 # Bliss - Loja de Roupas 
@@ -50,9 +45,6 @@ Bliss é um modelo de loja de roupas online elegante e moderno, projetado para u
 
 ## 🇧🇷 Português
 
-### Sobre o Projeto
-
-Bliss é um modelo de loja virtual de roupas com foco em peças em design minimalista. Este projeto foi desenvolvido como um template completo para e-commerce, incluindo frontend responsivo e simulação de funcionalidades de backend.
 
 ### Tecnologias Utilizadas
 
