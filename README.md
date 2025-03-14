@@ -1,7 +1,5 @@
 # Bliss - Clothing Store
 
-### About the Project
-
 Bliss is a sleek and modern online clothing store template, designed for a smooth and minimal shopping experience. It features a responsive and clean layout, ideal for showcasing pastel-themed clothing. The project includes simulated e-commerce functionalities like authentication, cart management, and payment processing, making it a perfect base for future online stores.
 
 
